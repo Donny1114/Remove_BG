@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Background Remover App is a simple Python application that allows users to remove backgrounds from images using the `rembg` library. 
+The Background Remover App is a simple Python application that allows users to remove backgrounds from images using the `rembg` library and tkinter for GUI. 
 The app provides a graphical user interface (GUI) for easy image selection, background removal, and output saving.
 
 ## Features
