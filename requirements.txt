@@ -1,0 +1,6 @@
+Pillow==10.0.0
+rembg==2.0.59
+#tkinter is included with Python by default, no installation needed
+
+#You can install the required packages using the following command in your terminal
+# pip install -r requirements.txt
